@@ -1,0 +1,17 @@
+=============================
+
+Quit Feedburner
+Version 1
+September 27, 2012
+Created by Ian Patrick Hines
+Original: http://quitfeedburner.com
+License: MIT/GPL
+
+=============================
+
+This was a simple, one-page site built to encourage people to think-twice about continuing to use Feedburner at a time when it looked increasingly likely that Google would shut it down.
+
+Aesthetically, it was modeled to look like a Google login page.
+
+Structurally, it makes use of the Skeleton framework.
+http://getskeleton.com
